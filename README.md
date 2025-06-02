@@ -23,6 +23,9 @@
 
 ## 📂 Featured Projects
 
+### 📃 [AI Powered Blog Generator with Daily Automation](https://github.com/paritosh100/AI-Powered-Blog-Post-Generator-with-Daily-Automation.git)
+> A Flask‑based tool that taps OpenAI to auto‑generate SEO‑optimized blog posts on demand or daily via APScheduler.
+
 ### 🔬 [Genomics Sequence Classifier](https://github.com/paritosh100/genomic-sequence-classification)
 > CNN and HMM-based classification of synthetic DNA sequences with visual performance metrics
 
