@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paritosh Gandre
+# 👋 Hi, I'm Paritosh Gandre | [Portfolio](https://paritosh-gandre.vercel.app)
 
 🎓 Master’s in Data Science — Kent State University  
 🔬 Research Assistant | AI in Genomics | Machine Learning | Data Engineering  
